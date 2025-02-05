@@ -112,4 +112,4 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📧 Contact  
-For questions, reach out at **srijalattala@example.com** or connect on **GitHub (Srija-Lattala)**.  
+For questions, reach out at **srijalattala@gmail.com** or connect on **GitHub (Srija-Lattala)**.  
