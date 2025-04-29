@@ -33,7 +33,7 @@ This project demonstrates the power of **Generative AI** by combining **Hugging 
 ### 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/Srija-Lattala/SmartCaptionAI.git
-cd image-caption-generator
+cd SmartCaptionAI
 ```
 
 ### 2️⃣ Create a virtual environment and activate it  
